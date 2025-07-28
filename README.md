@@ -1,2 +1,2 @@
 # Sistemas-Distribuidos
-## Repositório criado para a disciplina de Sistemas Distribuídos do 6 semestre de Ciência da Computação da Universidade Franciscana, a disciplina será conduzida pelo professor Alexandre Zamberlan.
+- Repositório criado para a disciplina de Sistemas Distribuídos do 6 semestre de Ciência da Computação da Universidade Franciscana, a disciplina será conduzida pelo professor Alexandre Zamberlan.
