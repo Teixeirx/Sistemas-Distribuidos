@@ -43,3 +43,4 @@ Plano de Ensino
         - modelo de consistência
         - estudo de casos
     - nota definida por: NF = [Nota 1(N1) + Nota 2(N2) + Nota 3(N3)] / 3
+a
