@@ -1,6 +1,7 @@
 Criar pastas para cada aula para anotações, projetos, atividades, etc...
 
-Sistemas Distribuídos
+#Sistemas Distribuídos
+Sistemas fracamente acoplados - grid computacional
     - Geograficamente distribuídos
     - Hardware e SO diferentes nas máquinas
     - Esquema de comunicação TCP/IP
@@ -17,6 +18,7 @@ Sistemas Distribuídos
             - ?
         - Tolerância a falhas
 
+#Sistemas Paralelos
 Sistemas fortemente acoplados - Cluster computacional
     - Mesma localização geografica
     - Hardware e SO iguais para todas as máquinas
@@ -43,4 +45,21 @@ Plano de Ensino
         - modelo de consistência
         - estudo de casos
     - nota definida por: NF = [Nota 1(N1) + Nota 2(N2) + Nota 3(N3)] / 3
-a
+
+
+Aula 1 - Processos e Threads
+    - Processo
+        - Todos tem id e uma prioridade ao ser executado
+        - Demanda Recurso
+            - Hardware comuica com o(s)/a
+                - processador
+                - barramento
+                - RAM + Cache
+                - periféricos
+    - Thread
+        - "Mini processo"
+        - Gestão
+            - Status(Stop, sleep, ready, pause, resume)
+            - Nome, id, prioridade
+        - Sincronizar(Principal utilização dos Threads)
+próxima aula será sobre threads(rever sobre isso durante a semana)
