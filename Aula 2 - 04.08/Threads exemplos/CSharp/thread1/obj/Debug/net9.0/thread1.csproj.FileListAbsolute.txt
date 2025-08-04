@@ -1,0 +1,15 @@
+C:\Users\laboratorio\Desktop\Sistemas-Distribuidos\Aula 2 - 04.08\Threads exemplos\CSharp\thread1\bin\Debug\net9.0\thread1.exe
+C:\Users\laboratorio\Desktop\Sistemas-Distribuidos\Aula 2 - 04.08\Threads exemplos\CSharp\thread1\bin\Debug\net9.0\thread1.deps.json
+C:\Users\laboratorio\Desktop\Sistemas-Distribuidos\Aula 2 - 04.08\Threads exemplos\CSharp\thread1\bin\Debug\net9.0\thread1.runtimeconfig.json
+C:\Users\laboratorio\Desktop\Sistemas-Distribuidos\Aula 2 - 04.08\Threads exemplos\CSharp\thread1\bin\Debug\net9.0\thread1.dll
+C:\Users\laboratorio\Desktop\Sistemas-Distribuidos\Aula 2 - 04.08\Threads exemplos\CSharp\thread1\bin\Debug\net9.0\thread1.pdb
+C:\Users\laboratorio\Desktop\Sistemas-Distribuidos\Aula 2 - 04.08\Threads exemplos\CSharp\thread1\obj\Debug\net9.0\thread1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\Desktop\Sistemas-Distribuidos\Aula 2 - 04.08\Threads exemplos\CSharp\thread1\obj\Debug\net9.0\thread1.AssemblyInfoInputs.cache
+C:\Users\laboratorio\Desktop\Sistemas-Distribuidos\Aula 2 - 04.08\Threads exemplos\CSharp\thread1\obj\Debug\net9.0\thread1.AssemblyInfo.cs
+C:\Users\laboratorio\Desktop\Sistemas-Distribuidos\Aula 2 - 04.08\Threads exemplos\CSharp\thread1\obj\Debug\net9.0\thread1.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\Desktop\Sistemas-Distribuidos\Aula 2 - 04.08\Threads exemplos\CSharp\thread1\obj\Debug\net9.0\thread1.sourcelink.json
+C:\Users\laboratorio\Desktop\Sistemas-Distribuidos\Aula 2 - 04.08\Threads exemplos\CSharp\thread1\obj\Debug\net9.0\thread1.dll
+C:\Users\laboratorio\Desktop\Sistemas-Distribuidos\Aula 2 - 04.08\Threads exemplos\CSharp\thread1\obj\Debug\net9.0\refint\thread1.dll
+C:\Users\laboratorio\Desktop\Sistemas-Distribuidos\Aula 2 - 04.08\Threads exemplos\CSharp\thread1\obj\Debug\net9.0\thread1.pdb
+C:\Users\laboratorio\Desktop\Sistemas-Distribuidos\Aula 2 - 04.08\Threads exemplos\CSharp\thread1\obj\Debug\net9.0\thread1.genruntimeconfig.cache
+C:\Users\laboratorio\Desktop\Sistemas-Distribuidos\Aula 2 - 04.08\Threads exemplos\CSharp\thread1\obj\Debug\net9.0\ref\thread1.dll
