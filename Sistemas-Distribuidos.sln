@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula 2 - 04.08", "Aula 2 - 04.08", "{E93D7B39-1E59-F5F6-1D1E-7567D8CFDC83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Threads exemplos", "Threads exemplos", "{6D8ED7CC-F92B-E2B1-C663-93AAC3196909}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp", "CSharp", "{B575B3FB-B4CB-BD6B-AEC9-175CCCF400D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thread1", "Aula 2 - 04.08\Threads exemplos\CSharp\thread1\thread1.csproj", "{0A29FE95-A0C8-7A68-0F95-5E2600BDAF66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A29FE95-A0C8-7A68-0F95-5E2600BDAF66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A29FE95-A0C8-7A68-0F95-5E2600BDAF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A29FE95-A0C8-7A68-0F95-5E2600BDAF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A29FE95-A0C8-7A68-0F95-5E2600BDAF66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6D8ED7CC-F92B-E2B1-C663-93AAC3196909} = {E93D7B39-1E59-F5F6-1D1E-7567D8CFDC83}
+		{B575B3FB-B4CB-BD6B-AEC9-175CCCF400D5} = {6D8ED7CC-F92B-E2B1-C663-93AAC3196909}
+		{0A29FE95-A0C8-7A68-0F95-5E2600BDAF66} = {B575B3FB-B4CB-BD6B-AEC9-175CCCF400D5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F1E0C24-6CF5-4B1D-BB0B-D20A92E6F566}
+	EndGlobalSection
+EndGlobal
